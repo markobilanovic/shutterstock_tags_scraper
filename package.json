@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api_test",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bootstrap": "^4.0.0-alpha.6",
+    "cheerio": "^0.22.0",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
